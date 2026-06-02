@@ -1,0 +1,26 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator
+C1,1,1uF,C_0805_2012Metric,,,,smt,"Unpolarized capacitor, small symbol",SMD_2terminal_chip_molded
+"C2, C3",2,22pF,C_0805_2012Metric,,,,smt,"Unpolarized capacitor, small symbol",SMD_2terminal_chip_molded
+"C4, C5, C6, C7",4,0.1uF,C_0805_2012Metric,,,,smt,"Unpolarized capacitor, small symbol",SMD_2terminal_chip_molded
+J1,1,USB_B_Micro,USB_Micro-B_Molex-105017-0001,,,,smt,USB Micro Type B connector,
+J10,1,GND5,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J11,1,PD4,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J12,1,GND6,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J13,1,PD5,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J14,1,GND7,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J15,1,PD6,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J16,1,GND8,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J17,1,PD7,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J2,1,GND1,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J3,1,PD0,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J4,1,GND2,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J5,1,PD1,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J6,1,GND3,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J7,1,PD2,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J8,1,GND4,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J9,1,PD3,TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+R1,1,10k,R_0805_2012Metric,,,,smt,"Resistor, small symbol",SMD_2terminal_chip_molded
+"R2, R3",2,22,R_0805_2012Metric,,,,smt,"Resistor, small symbol",SMD_2terminal_chip_molded
+SW1,1,SW_Push,SW_PUSH_6mm,,,,tht,"Push button switch, generic, two pins",
+U1,1,ATmega32U4-A,TQFP-44_10x10mm_P0.8mm,,,,smt,"16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44",package/gullwing
+Y2,1,Crystal_GND3_Small,Crystal_SMD_5032-2Pin_5.0x3.2mm,,,,smt,"Three pin crystal, GND on pin 3, small symbol",crystal_resonator_oscillator
