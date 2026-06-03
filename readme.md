@@ -11,7 +11,7 @@ link to **3d printed parts**:
 <a href=""> under construction :) </a>
 
 jump to **manufacturing instructions**:
-[manufacturing instructions](instructions)
+[manufacturing instructions](#instructions)
 
 ### features
 under construction :)
