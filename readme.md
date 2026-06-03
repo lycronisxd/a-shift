@@ -19,5 +19,5 @@ under construction :)
 ### how it works
 under construction :)
 
-### <a name="instructions">manufacturing-instructions
+### <a name="instructions">instructions</a>
 under construction :)
