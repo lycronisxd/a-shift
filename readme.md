@@ -23,8 +23,8 @@ under construction :)
 under construction :)
 
 ### credits + ai declaration
-<a href="https://www.youtube.com/@amstudioprojects">amstudio</a> for <a href="https://www.youtube.com/watch?v=YMD8e26s7VE&t=88s">this video</a>
+<a href="https://www.youtube.com/@amstudioprojects">amstudio</a> for <a href="https://www.youtube.com/watch?v=YMD8e26s7VE&t=88s">this video</a>\
 about <a href="https://www.thingiverse.com/Noctiluxx/designs">noctiluxx's <a href="https://www.thingiverse.com/thing:1274947">h-pattern shifter design</a> for the forwards and backwards action of the shifter being locked <3 
 
-i used google gemini to understand why the length of the shift lever mattered
+i used google gemini to understand why the length of the shift lever mattered\
 i used chatgpt to confirm the selection of the electronic components that i plan to use for the pcb (capacitors, resistors etc.)
