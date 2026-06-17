@@ -10,16 +10,10 @@ link to **public onshape project**:
 link to **3d printed parts**:
 <a href=""> under construction :) </a>
 
-jump to **manufacturing instructions**:
-[manufacturing instructions](#instructions)
-
 ### features
 under construction :)
 
 ### how it works
-under construction :)
-
-### <a name="instructions">manufacturing instructions</a>
 under construction :)
 
 ### credits + ai declaration
