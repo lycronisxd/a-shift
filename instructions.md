@@ -31,4 +31,4 @@
   <li>1 x a-shift pcb</li>
 </ul>
 
-<p>(p.s - if you want to buy the bare pcb and assemble it yourself, here's a download to the components that i used and recommend for the pcb! :D)</p>
+<p>(p.s - if you want to buy the bare pcb and assemble it yourself, <a href="https://docs.google.com/spreadsheets/d/1MjrU7IrbQ_ZQorYGkfbvgLpo6hidaAycoKFRKqDxL6c/edit?usp=sharing">here's a spreadsheet</a> with the components that i used and recommend for the pcb! :D)</p>
