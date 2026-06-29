@@ -16,6 +16,9 @@ under construction :)
 ### how it works
 under construction :)
 
+### instructions
+<a href="https://github.com/lycronisxd/a-shift/blob/main/instructions.md">click here!</a>
+
 ### credits + ai declaration
 <a href="https://www.youtube.com/@amstudioprojects">amstudio</a> for <a href="https://www.youtube.com/watch?v=YMD8e26s7VE&t=88s">this video</a>\
 about <a href="https://www.thingiverse.com/Noctiluxx/designs">noctiluxx's <a href="https://www.thingiverse.com/thing:1274947">h-pattern shifter design</a> for the forwards and backwards action of the shifter being locked <3 
