@@ -8,7 +8,7 @@ link to **public onshape project**:
 <a href="https://cad.onshape.com/documents/ae479125a780254f271543a6/w/35b4ca05e55e778462ce5fb0/e/28c8145b059bf4585cd308b0"> click this </a>
 
 link to **3d printed parts**:
-<a href=""> under construction :) </a>
+<a href="https://www.thingiverse.com/thing:7376293">click here!</a>
 
 ### features
 under construction :)
