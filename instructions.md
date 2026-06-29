@@ -18,7 +18,7 @@
 <h4>mounting hardware</h4>
   <li>4 x <b>m3x5mm bolts</b></li>
   <li>8 x <b>m4 nuts</b></li>
-  <li>8 x <b>m4 washers</b></li>
+  <li>8 x <b>m6 washers</b></li>
   <li>15 x <b>m4x10mm bolts</b></li>
   <li>2 x <b>m5 nuts</b></li>
   <li>2 x <b>m5x10mm bolts</b></li>
@@ -48,7 +48,7 @@
   <li>superglue <b>3d printed x-axis bearing pegs</b> to <b>3d printed y-axis chamber</b></li>
   <li>assemble <b>608 series bearings</b> in <b>3d printed y-axis chamber</b></li>
   <li>thread the <b>3d printed y-axis bearing peg</b> through both bearings and <b>200mm m10 threaded rod</b> hole</li>
-  <li>put <b>m4 nuts</b> and <b>m4 washers</b> over each end of the <b>25mm long and 45mm long, 5mm diameter springs</b></li>
+  <li>put <b>m4 nuts</b> and <b>m6 washers</b> over each end of the <b>25mm long and 45mm long, 5mm diameter springs</b></li>
   <li>thread <b>m4x10mm bolts</b> in the back of the <b>3d printed y-axis chamber</b> holes and tighten <b>m4 nuts</b> until <b>all 4 springs</b> are secured to <b>3d printed y-axis chamber</b></li>
   <li>put the <b>3d printed y-axis chamber</b> pegs through the <b>3d printed main chassis</b> bearing holes without any bearings</li>
   <li>put <b>608 series bearings</b> on each side of the pegs and friction fit one by one into <b>3d printed main chassis</b> bearing holes</li>
