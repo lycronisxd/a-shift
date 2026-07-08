@@ -62,6 +62,7 @@ link to **3d printed parts**:
 <li>7+R normally</li>
 <li>5+R capability</li>
 <li>sequential shifter capability</li>
+<li>built in clamping system for tables or sim rigs</li>
 </ul>
 
 ### how it works
@@ -70,6 +71,9 @@ link to **3d printed parts**:
 <li>the used limit switches are mapped as controller buttons inside of game settings</li>
 <li>can use the shifter sequentially if printing the sequential shift gate and using rubber bands!</li>
 </ul>
+<img width="811" height="715" alt="image" src="https://github.com/user-attachments/assets/f665816a-f127-498b-b061-40d0521927fd" />
+<img width="797" height="690" alt="image" src="https://github.com/user-attachments/assets/e1979a1c-fec3-416a-abe7-7a754ba6895b" />
+
 
 ### instructions
 <a href="https://github.com/lycronisxd/a-shift/blob/main/instructions.md">click here!</a>
