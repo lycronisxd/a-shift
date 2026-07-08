@@ -12,8 +12,10 @@ link to **3d printed parts**:
 
 ### features
 <ul>
-<li>the shifter is able to be used as a 7+R normally, but if needed - can be transformed into a 6+R or sequential with different shift gate modifications.</li>
 <li>custom designed pcb based on the atmega32u4 for ease of future designing :)</li>
+<li>7+R normally</li>
+<li>5+R capability</li>
+<li>sequential shifter capability</li>
 </ul>
 
 ### how it works
