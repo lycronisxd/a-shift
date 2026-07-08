@@ -1,12 +1,16 @@
 # a-shift
 ## a high-quality sim racing shifter targeted at being as cheap as possible to manufacture.
 
+<img width="373" height="641" alt="image" src="https://github.com/user-attachments/assets/164f1001-2c27-4614-8d4c-fc8add67f383" />\
 <img width="407" height="737" alt="shifter" src="https://github.com/user-attachments/assets/7af0d89a-b6e3-4d0b-bb7c-fc8a4d2be5b1" />
+<img width="438" height="696" alt="image" src="https://github.com/user-attachments/assets/95644fbd-2978-4db3-8bb4-1d80eb86a354" />
+
+
 
 ### pcb and schematic
 <img width="1138" height="781" alt="image" src="https://github.com/user-attachments/assets/02b31dea-feff-4e7d-801d-387bfd542889" />
 <img width="1038" height="781" alt="image" src="https://github.com/user-attachments/assets/903b0cd3-2a69-4966-873a-851ff336b1f5" />
-<img width="1138" height="781" alt="image" src="https://github.com/user-attachments/assets/3f853175-bdd9-4c53-9660-663e7c5d3abf" />
+<img width="440" height="718" alt="image" src="https://github.com/user-attachments/assets/c5514506-50cb-43ba-8001-b1ef79231480" />
 
 ### bill of materials
 
