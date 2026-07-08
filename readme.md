@@ -11,11 +11,17 @@ link to **3d printed parts**:
 <a href="https://www.thingiverse.com/thing:7376293">click here!</a>
 
 ### features
-under construction :)
-
+<ul>
+<li>the shifter is able to be used as a 7+R normally, but if needed - can be transformed into a 6+R or sequential with different shift gate modifications.</li>
+<li>custom designed pcb based on the atmega32u4 for ease of future designing :)</li>
+</ul>
 ### how it works
-under construction :)
-
+<ul>
+<li>uses a combination of software and hardware to be used as a shifter in racing or driving games</li>
+<li>the used limit switches are mapped as controller buttons inside of game settings</li>
+<li>can use the shifter sequentially if printing the sequential shift gate and using rubber bands!</li>
+i>
+</ul>
 ### instructions
 <a href="https://github.com/lycronisxd/a-shift/blob/main/instructions.md">click here!</a>
 
